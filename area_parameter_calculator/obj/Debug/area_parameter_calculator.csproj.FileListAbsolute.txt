@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\bin\Debug\area_parameter_calculator.exe.config
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\bin\Debug\area_parameter_calculator.exe
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\bin\Debug\area_parameter_calculator.pdb
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.Form1.resources
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.Properties.Resources.resources
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.exe
+c:\users\james\documents\visual studio 2015\Projects\area_parameter_calculator\area_parameter_calculator\obj\Debug\area_parameter_calculator.pdb
